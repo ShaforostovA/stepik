@@ -2,13 +2,13 @@
 
 using namespace std;
 
-size_t printVar(int &var);
+size_t printVar(auto var);
 
 int main() {
-    cout << "Hello, World!" << endl;
+    printVar(23);
     return 0;
 }
 
-size_t printVar(int &var){
+size_t printVar(auto var){
     cout << var << endl;
 }
