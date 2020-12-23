@@ -1,14 +1,16 @@
 #include <iostream>
+#include <string>
+#include "classes/Fraction/Fraction.h"
 
 using namespace std;
 
-size_t printVar(auto var);
+
 
 int main() {
-    printVar(23);
-    return 0;
-}
 
-size_t printVar(auto var){
-    cout << var << endl;
+    Fraction numbers = Fraction(12,5);
+
+    cout << numbers.getValue() << endl;
+
+    return 0;
 }

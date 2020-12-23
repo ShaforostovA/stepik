@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/Projects/C++/stepik/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe   -g -std=gnu++2a -o CMakeFiles\\stepik.dir\\main.cpp.obj -c D:\\Projects\\C++\\stepik\\main.cpp",
+  "file": "D:/Projects/C++/stepik/main.cpp"
+}
+]

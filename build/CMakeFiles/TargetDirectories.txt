@@ -1,0 +1,3 @@
+D:/Projects/C++/stepik/build/CMakeFiles/stepik.dir
+D:/Projects/C++/stepik/build/CMakeFiles/edit_cache.dir
+D:/Projects/C++/stepik/build/CMakeFiles/rebuild_cache.dir

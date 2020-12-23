@@ -6,7 +6,19 @@
 
 #IncludeRegexTransform: 
 
+D:/Projects/Cplusplus/stepik/classes/Fraction/Fraction.cpp
+Fraction.h
+D:/Projects/Cplusplus/stepik/classes/Fraction/Fraction.h
+
+D:/Projects/Cplusplus/stepik/classes/Fraction/Fraction.h
+iostream
+-
+
 D:/Projects/Cplusplus/stepik/main.cpp
 iostream
 -
+string
+-
+classes/Fraction/Fraction.h
+D:/Projects/Cplusplus/stepik/classes/Fraction/Fraction.h
 

@@ -142,6 +142,33 @@ stepik/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\stepik.dir\build.make CMakeFiles/stepik.dir/build
 .PHONY : stepik/fast
 
+classes/Fraction/Fraction.obj: classes/Fraction/Fraction.cpp.obj
+
+.PHONY : classes/Fraction/Fraction.obj
+
+# target to build an object file
+classes/Fraction/Fraction.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\stepik.dir\build.make CMakeFiles/stepik.dir/classes/Fraction/Fraction.cpp.obj
+.PHONY : classes/Fraction/Fraction.cpp.obj
+
+classes/Fraction/Fraction.i: classes/Fraction/Fraction.cpp.i
+
+.PHONY : classes/Fraction/Fraction.i
+
+# target to preprocess a source file
+classes/Fraction/Fraction.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\stepik.dir\build.make CMakeFiles/stepik.dir/classes/Fraction/Fraction.cpp.i
+.PHONY : classes/Fraction/Fraction.cpp.i
+
+classes/Fraction/Fraction.s: classes/Fraction/Fraction.cpp.s
+
+.PHONY : classes/Fraction/Fraction.s
+
+# target to generate assembly for a file
+classes/Fraction/Fraction.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\stepik.dir\build.make CMakeFiles/stepik.dir/classes/Fraction/Fraction.cpp.s
+.PHONY : classes/Fraction/Fraction.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -178,6 +205,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... stepik
+	@echo ... classes/Fraction/Fraction.obj
+	@echo ... classes/Fraction/Fraction.i
+	@echo ... classes/Fraction/Fraction.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

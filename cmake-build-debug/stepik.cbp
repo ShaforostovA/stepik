@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/Projects/Cplusplus/stepik/classes/Fraction/Fraction.cpp">
+			<Option target="stepik"/>
+		</Unit>
+		<Unit filename="D:/Projects/Cplusplus/stepik/classes/Fraction/Fraction.h">
+			<Option target="stepik"/>
+		</Unit>
 		<Unit filename="D:/Projects/Cplusplus/stepik/main.cpp">
 			<Option target="stepik"/>
 		</Unit>

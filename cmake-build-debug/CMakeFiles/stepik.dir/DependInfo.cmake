@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "D:/Projects/Cplusplus/stepik/classes/Fraction/Fraction.cpp" "D:/Projects/Cplusplus/stepik/cmake-build-debug/CMakeFiles/stepik.dir/classes/Fraction/Fraction.cpp.obj"
   "D:/Projects/Cplusplus/stepik/main.cpp" "D:/Projects/Cplusplus/stepik/cmake-build-debug/CMakeFiles/stepik.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

@@ -3,4 +3,4 @@ project(stepik)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(stepik main.cpp)
+add_executable(stepik main.cpp classes/Fraction/Fraction.cpp classes/Fraction/Fraction.h)
